@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<firstClass>
+    <byteVariable>0</byteVariable>
+    <shortVariable>0</shortVariable>
+    <intVariable>0</intVariable>
+    <longVariable>0</longVariable>
+    <floatVariable>0.0</floatVariable>
+    <doubleVariable>0.0</doubleVariable>
+    <charVariable>0</charVariable>
+    <booleanVariable>false</booleanVariable>
+</firstClass>

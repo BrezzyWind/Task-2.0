@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<thirdClass>
+    <byteVariable>7</byteVariable>
+    <shortVariable>15</shortVariable>
+    <intVariable>31</intVariable>
+    <longVariable>63</longVariable>
+    <floatVariable>31.5</floatVariable>
+    <doubleVariable>63.5</doubleVariable>
+    <charVariable>85</charVariable>
+    <booleanVariable>false</booleanVariable>
+    <byteVariableSecond>-7</byteVariableSecond>
+    <shortVariableSecond>-15</shortVariableSecond>
+    <intVariableSecond>-31</intVariableSecond>
+    <longVariableSecond>-63</longVariableSecond>
+    <floatVariableSecond>-31.5</floatVariableSecond>
+    <doubleVariableSecond>-63.5</doubleVariableSecond>
+    <charVariableSecond>84</charVariableSecond>
+</thirdClass>

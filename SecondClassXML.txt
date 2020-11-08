@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<secondClass>
+    <byteVariable>7</byteVariable>
+    <shortVariable>15</shortVariable>
+    <intVariable>31</intVariable>
+    <longVariable>63</longVariable>
+    <floatVariable>31.5</floatVariable>
+    <doubleVariable>63.5</doubleVariable>
+    <charVariable>85</charVariable>
+    <booleanVariable>false</booleanVariable>
+    <byteVariableSecond>0</byteVariableSecond>
+    <shortVariableSecond>0</shortVariableSecond>
+    <intVariableSecond>0</intVariableSecond>
+    <longVariableSecond>0</longVariableSecond>
+    <floatVariableSecond>0.0</floatVariableSecond>
+    <doubleVariableSecond>0.0</doubleVariableSecond>
+    <charVariableSecond>0</charVariableSecond>
+</secondClass>
